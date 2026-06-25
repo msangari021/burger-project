@@ -612,11 +612,10 @@ main{
 /* FOOTER */
 footer{
     background-color: rgb(240,240,240);
-    height: 50vh;
     display: block;
 }
 #footer-main{
-    margin: 70px 10%;
+    padding: 70px 10%;
     display: flex;
     justify-content: space-between;
 }
