@@ -150,7 +150,7 @@ main{
     justify-content: space-between;
     margin: 70px auto;
 }
-#section2 div{
+#section2>div{
     flex-direction: column;
     justify-content: space-between;
     width: 49%;
@@ -206,12 +206,12 @@ main{
 #section2-box1 p:last-child{
     margin-top: 60px;
 }
-#section2-box1 article{
+#section2-box1 div{
     padding: 100px 0 150px 50px;
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: 30px;
 }
-#section2-box2 article , #section2-box3 article{
+#section2-box2 div , #section2-box3 div{
     padding: 35px 0 35px 50px;
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: 30px;
