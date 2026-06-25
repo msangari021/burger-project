@@ -414,8 +414,12 @@ main{
     width: 40%;
     margin-left: 10px;
 }
+#item4 img{
+    width: 39%;
+    margin-left: 10px;
+}
 #item5 img{
-    width: 36%;
+    width: 33%;
     height: 70%;
     margin-left: 20px;
 }
