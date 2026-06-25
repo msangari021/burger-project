@@ -454,7 +454,6 @@ main{
     transition-duration: 0.3s;
 }
 #section7 a:hover{
-    font-weight: bolder;
     color: var(--yellow);
 }
 #section7 div p:last-child{
